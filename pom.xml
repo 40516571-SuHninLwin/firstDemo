@@ -7,14 +7,6 @@
   <name>Archetype - firstProject</name>
   <url>http://maven.apache.org</url>
 
-  <dependencies>
-    <dependency>
-      <groupId>org.mongodb</groupId>
-      <artifactId>mongodb-driver</artifactId>
-      <version>3.6.4</version>
-    </dependency>
-  </dependencies>
-
   <properties>
     <maven.compiler.source>19</maven.compiler.source>
     <maven.compiler.target>19</maven.compiler.target>
